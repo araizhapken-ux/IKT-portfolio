@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(135deg, #2b0008, #6d001a, #a1002b);
+  color: white;
+}
+
+header {
+  text-align: center;
+  padding: 40px;
+}
+
+.card {
+  background: rgba(255,255,255,0.1);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+video, img {
+  width: 100%;
+}
